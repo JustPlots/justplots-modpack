@@ -2,7 +2,7 @@
   "$schema": "https://docs.ehis.gay/ehmodpack/schema/lock.schema.json",
   "schemaVersion": 1,
   "lock_version": 3,
-  "generated_at": "2026-10-07T14:40:27.3776795Z",
+  "generated_at": "2026-11-22T14:21:06.4684734Z",
   "manifest_hash": "0dbeb7d5b0d0555aeb9e8c9c8514494bdd31bd5d46026e8fa50e11770aa3601b",
   "name": "Just Plots",
   "version": "1.0.1",
@@ -529,18 +529,18 @@
           "type": "mod",
           "project": "cubes-without-borders",
           "project_id": "ETlrkaYF",
-          "version_id": "G94OTz7b",
-          "version_number": "3.0.0+1.21.11",
-          "filename": "cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
-          "path": "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
+          "version_id": "AUqG5Vea",
+          "version_number": "5.0.0+1.21.11.fabric",
+          "filename": "cwb-5.0.0+1.21.11.fabric.jar",
+          "path": "mods/cwb-5.0.0+1.21.11.fabric.jar",
           "hashes": {
-            "sha1": "51d97f5fba7b6a132976765e06f93e8f044d382c",
-            "sha512": "5c4efa5d080475556362e88348414d74b81c94b1f25f6455a3933a113c949f12a65d6a267822debda5aeafa212ef1f3f675ff1eb38eb82f4f96cf823bb8aaa21"
+            "sha1": "3097e866abb675d73d9ec3b00f43078d6e8ae831",
+            "sha512": "c01ee1b7682862968a6e075e6858828876ffa1566243cfbf1838bf0d7d2b5b9468f93a26f1d4fb1335b9cac7ddece50257f823764cb1e13461f33790e9c424f8"
           },
           "downloads": [
-            "https://cdn.modrinth.com/data/ETlrkaYF/versions/G94OTz7b/cwb-fabric-3.0.0-build.14%2Bmc1.21.11.jar"
+            "https://cdn.modrinth.com/data/ETlrkaYF/versions/AUqG5Vea/cwb-5.0.0%2B1.21.11.fabric.jar"
           ],
-          "file_size": 78535,
+          "file_size": 88896,
           "env": {
             "client": "required",
             "server": "unsupported"
@@ -1553,18 +1553,18 @@
           "type": "mod",
           "project": "cubes-without-borders",
           "project_id": "ETlrkaYF",
-          "version_id": "wXhtL4fb",
-          "version_number": "3.0.0+1.21.5",
-          "filename": "cwb-fabric-3.0.0+mc1.21.5.jar",
-          "path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar",
+          "version_id": "a2qnHQUG",
+          "version_number": "5.0.0+1.21.2.fabric",
+          "filename": "cwb-5.0.0+1.21.2.fabric.jar",
+          "path": "mods/cwb-5.0.0+1.21.2.fabric.jar",
           "hashes": {
-            "sha1": "b663eb9a8238be3cd71173e39b6f9d01d0948c1d",
-            "sha512": "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5aa426e673c70c4c08dab54034cc927c89d4e5bf9521035dbbd5a6f236"
+            "sha1": "79bd0493f45e84fa0329d7611edc04240a89df48",
+            "sha512": "0fbed2ffc6df3a6857e7b4f825b449b118796b2ddf8238ea69184fa278fbdbb32836316684836dbb3552c7144b262a44b702577e9beedaf996cffd82df27f0ab"
           },
           "downloads": [
-            "https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
+            "https://cdn.modrinth.com/data/ETlrkaYF/versions/a2qnHQUG/cwb-5.0.0%2B1.21.2.fabric.jar"
           ],
-          "file_size": 81623,
+          "file_size": 91531,
           "env": {
             "client": "required",
             "server": "unsupported"
@@ -2577,18 +2577,18 @@
           "type": "mod",
           "project": "cubes-without-borders",
           "project_id": "ETlrkaYF",
-          "version_id": "wXhtL4fb",
-          "version_number": "3.0.0+1.21.5",
-          "filename": "cwb-fabric-3.0.0+mc1.21.5.jar",
-          "path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar",
+          "version_id": "a2qnHQUG",
+          "version_number": "5.0.0+1.21.2.fabric",
+          "filename": "cwb-5.0.0+1.21.2.fabric.jar",
+          "path": "mods/cwb-5.0.0+1.21.2.fabric.jar",
           "hashes": {
-            "sha1": "b663eb9a8238be3cd71173e39b6f9d01d0948c1d",
-            "sha512": "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5aa426e673c70c4c08dab54034cc927c89d4e5bf9521035dbbd5a6f236"
+            "sha1": "79bd0493f45e84fa0329d7611edc04240a89df48",
+            "sha512": "0fbed2ffc6df3a6857e7b4f825b449b118796b2ddf8238ea69184fa278fbdbb32836316684836dbb3552c7144b262a44b702577e9beedaf996cffd82df27f0ab"
           },
           "downloads": [
-            "https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
+            "https://cdn.modrinth.com/data/ETlrkaYF/versions/a2qnHQUG/cwb-5.0.0%2B1.21.2.fabric.jar"
           ],
-          "file_size": 81623,
+          "file_size": 91531,
           "env": {
             "client": "required",
             "server": "unsupported"
@@ -3579,18 +3579,18 @@
           "type": "mod",
           "project": "cubes-without-borders",
           "project_id": "ETlrkaYF",
-          "version_id": "wXhtL4fb",
-          "version_number": "3.0.0+1.21.5",
-          "filename": "cwb-fabric-3.0.0+mc1.21.5.jar",
-          "path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar",
+          "version_id": "a2qnHQUG",
+          "version_number": "5.0.0+1.21.2.fabric",
+          "filename": "cwb-5.0.0+1.21.2.fabric.jar",
+          "path": "mods/cwb-5.0.0+1.21.2.fabric.jar",
           "hashes": {
-            "sha1": "b663eb9a8238be3cd71173e39b6f9d01d0948c1d",
-            "sha512": "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5aa426e673c70c4c08dab54034cc927c89d4e5bf9521035dbbd5a6f236"
+            "sha1": "79bd0493f45e84fa0329d7611edc04240a89df48",
+            "sha512": "0fbed2ffc6df3a6857e7b4f825b449b118796b2ddf8238ea69184fa278fbdbb32836316684836dbb3552c7144b262a44b702577e9beedaf996cffd82df27f0ab"
           },
           "downloads": [
-            "https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
+            "https://cdn.modrinth.com/data/ETlrkaYF/versions/a2qnHQUG/cwb-5.0.0%2B1.21.2.fabric.jar"
           ],
-          "file_size": 81623,
+          "file_size": 91531,
           "env": {
             "client": "required",
             "server": "unsupported"
